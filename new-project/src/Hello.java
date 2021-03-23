@@ -5,6 +5,6 @@ public class Hello {
 		System.out.println("Hello from method1");
 		System.out.println("Line 2");
 		System.out.println("Line number 3");
-		System.out.println("Line number 4");
+		System.out.println("Line 4");
 	}
 }
